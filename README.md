@@ -1,6 +1,6 @@
 # SkyCast-The-Weather-App
 
-View the Live Website Here: [https://nazneen-k.github.io/SkyCast-The-Weather-App/](https://joyline-rencita.github.io/Weather-App/)
+View the Live Website Here: [ https://joyline-rencita.github.io/Weather-App/](https://joyline-rencita.github.io/Weather-App/)
 
 ![Screenshot 2023-11-01 085817](https://github.com/nazneen-k/SkyCast-The-Weather-App/assets/117660793/209f011b-53d5-4c65-83ee-5d605b4d2643)
 
